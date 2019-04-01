@@ -1,4 +1,4 @@
-## DRF-TDD-Example
+## Django Boilerplate With Test Driven Development
 
 An example Django REST framework project for test driven development.
 
